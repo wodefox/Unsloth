@@ -32,5 +32,8 @@
 ### 快速开始
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/yourusername/unsloth-gui-finetuner.git
-   cd unsloth-gui-finetuner
+   git clone https://github.com/wodefox/Unsloth.git
+   cd unsloth
+2.**RUN**
+```bash
+   python w.py
