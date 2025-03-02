@@ -1,0 +1,11 @@
+{
+  "base_model": "meta-llama/Llama-2-7b-hf",
+  "learning_rate": "2e-5",
+  "batch_size": "4",
+  "epochs": "3",
+  "max_length": "512",
+  "use_lora": true,
+  "lora_rank": "8",
+  "use_fp16": true,
+  "gradient_accumulation_steps": "1"
+}

@@ -1,0 +1,10 @@
+transformers>=4.36.0
+datasets>=2.14.0
+peft>=0.6.0
+unsloth>=0.3.0
+torch>=2.0.0
+accelerator>=0.23.0
+bitsandbytes>=0.41.0
+sentencepiece>=0.1.99
+protobuf>=4.24.0
+safetensors>=0.4.0
